@@ -61,7 +61,9 @@ npx expo start ```
 
 
 
-https://github.com/user-attachments/assets/oauth.mov
+https://github.com/user-attachments/assets/4b05ddc6-30ac-44ea-bad2-03f07419e30a
+
+
 
 
 Recommendation page + Favorite
