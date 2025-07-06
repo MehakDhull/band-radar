@@ -59,11 +59,17 @@ npx expo start ```
 
 #### Demo
 
-![PXL_20250704_144345424](https://github.com/user-attachments/assets/948bc49f-7924-49e3-8ebf-1756fbfb2e0b)
-
-![PXL_20250704_144345424](https://github.com/user-attachments/assets/27445c56-997d-493a-b1d2-8472288ad5f9)
-
-![PXL_20250704_143645473](https://github.com/user-attachments/assets/cb8d4cb5-d69e-4596-bbdf-4e4cc160c790)
 
 
+https://github.com/user-attachments/assets/4a79a7b4-ca6d-4bb1-bc7c-e80826f41d5c
+
+
+
+
+
+https://github.com/user-attachments/assets/2839fbbd-bd35-4a36-bedb-2c829925ca87
+
+![WhatsApp Image 2025-07-06 at 11 39 44 AM](https://github.com/user-attachments/assets/744718fd-457d-4ace-b990-71fb846eafe8)
+![WhatsApp Image 2025-07-06 at 11 39 44 AM (1)](https://github.com/user-attachments/assets/30bd5ea4-5eb3-47b3-8fac-a99ade9c1d86)
+![WhatsApp Image 2025-07-06 at 11 39 44 AM (2)](https://github.com/user-attachments/assets/989b0521-7889-489a-b601-1050a17fa4a1)
 
