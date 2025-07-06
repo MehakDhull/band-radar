@@ -55,9 +55,7 @@ EXPO_PUBLIC_TICKETMASTER_API_KEY=your_ticketmaster_key
 ```bash
 npx expo start
 
-Demo
 
-Recommendation page + Favorite
 
 
 
