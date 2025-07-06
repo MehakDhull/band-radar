@@ -59,15 +59,21 @@ npx expo start ```
 
 #### Demo
 
+# Authentication
+
+https://github.com/user-attachments/assets/6f263ab9-07fb-4013-929e-ddfa41ceb550
+
+# Recommendation page + Favorite
+
+https://github.com/user-attachments/assets/8def33a5-0c96-4239-8aea-235c7dfdd7e3
+
+# Ai Chatbot
+
+https://github.com/user-attachments/assets/594de1d9-4a47-4ab5-a1ac-941caed393af
+
+# Map
+
+https://github.com/user-attachments/assets/5075b8ec-bdfc-4e6b-a5be-81e5e1b06062
 
 
-https://github.com/user-attachments/assets/4b05ddc6-30ac-44ea-bad2-03f07419e30a
-
-
-
-
-Recommendation page + Favorite
-
-
-https://github.com/user-attachments/assets/ea8e57a1-14c0-47a5-b249-f55b7b8f88fe
 
