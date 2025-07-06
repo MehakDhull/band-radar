@@ -61,15 +61,11 @@ npx expo start ```
 
 
 
-https://github.com/user-attachments/assets/4a79a7b4-ca6d-4bb1-bc7c-e80826f41d5c
+https://github.com/user-attachments/assets/oauth.mov
 
 
+Recommendation page + Favorite
 
 
-
-https://github.com/user-attachments/assets/2839fbbd-bd35-4a36-bedb-2c829925ca87
-
-![WhatsApp Image 2025-07-06 at 11 39 44 AM](https://github.com/user-attachments/assets/744718fd-457d-4ace-b990-71fb846eafe8)
-![WhatsApp Image 2025-07-06 at 11 39 44 AM (1)](https://github.com/user-attachments/assets/30bd5ea4-5eb3-47b3-8fac-a99ade9c1d86)
-![WhatsApp Image 2025-07-06 at 11 39 44 AM (2)](https://github.com/user-attachments/assets/989b0521-7889-489a-b601-1050a17fa4a1)
+https://github.com/user-attachments/assets/ea8e57a1-14c0-47a5-b249-f55b7b8f88fe
 
